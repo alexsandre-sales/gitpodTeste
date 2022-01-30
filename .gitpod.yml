@@ -7,3 +7,5 @@ tasks:
 vscode:
   extensions:
     - redhat.fabric8-analytics
+image:
+  file: .gitpod/workspace-java-17
