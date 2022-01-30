@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-BacktesteApplication<backteste>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.back.backteste.BacktesteApplication",
+            "projectName": "backteste",
+            "args": ""
+        }
+    ]
+}
