@@ -7,6 +7,6 @@ import org.springframework.web.bind.annotation.RestController;
 public class Hello {
     @GetMapping(value="/")
     public String getMethodName() {
-        return "<h1>Ola mundo Java</h1>";
+        return "<h1>Ola mundo Java!</h1>";
     }
 }
